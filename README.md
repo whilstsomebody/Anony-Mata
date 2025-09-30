@@ -29,6 +29,31 @@ To message me, click [Here](https://anonymata.vercel.app/u/Aman_Vishwakarma)
 + The person can open the link and message whatever they want.
 + All the messages sent to you will be visible on your dashboard.
 
+## **Contributors**
+
+We appreciate all the contributors who have helped make AnonyMata better! 🎉
+
+<a href="https://github.com/whilstsomebody/Anony-Mata/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=whilstsomebody/Anony-Mata" />
+</a>
+
+*Made with [contrib.rocks](https://contrib.rocks).*
+
+### How to Contribute?
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+We welcome contributions of all kinds! Whether it's:
+- 🐛 Bug fixes
+- ✨ New features
+- 📝 Documentation improvements
+- 🎨 UI/UX enhancements
+- 🧪 Testing improvements
+
 ## **Special Thanks**
 This project has been completed with the help of [@HiteshChoudhary](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdLWkhiY2FhZmpiVkdIeUpoT1gydTV2TUFOUXxBQ3Jtc0tta1ljSVpyMVQ5ZXBZTFZfRnZkR0J3MG5BcENidHNFQTg4NVNVTTJLYS0wWjZsVnhEWloyZFdYNDFUQUlGdXRFbFhFbGFQbVBVSWNFQTdqNjdDSDNibFdhNGpRMkZaYVVUY3hRM1JJLVdqXzUweTlpUQ&q=https%3A%2F%2Fgithub.com%2Fhiteshchoudhary&v=g1iqZpXklnY).
 
