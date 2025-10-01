@@ -11,15 +11,41 @@ important purpose.
 
 To message me, click [Here](https://anonymata.vercel.app/u/Aman_Vishwakarma)
 
-## **How to run in local system?**
+## **🚀 Local Development Setup**
 
-+ Fork the repo and copy the repo url.
-+ In terminal, run *git clone <repo link>*.
-+ Rest github configuration is on you.
-+ Now to run it, use command 
-    * *npm install*
-    * *npm run dev*
-+ To setup .env, take the help of **.env.sample**.
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn
+- Git
+
+### Installation Steps
+
+1. **Fork and Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/Anony-Mata.git
+   cd Anony-Mata
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Environment Setup**
+   - Copy `.env.sample` to `.env.local`
+   - Fill in the required environment variables
+   ```bash
+   cp .env.sample .env.local
+   ```
+
+4. **Run Development Server**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open in Browser**
+   - Navigate to `http://localhost:3000`
+   - Your app should be running! 🎉
 
 ## **How to use?**
 
